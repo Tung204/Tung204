@@ -4,7 +4,7 @@
     </h1>
 </div>
 <div>
-    <h2>md🐳 About Me</h2>
+    <h2>🐳 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
     <p>I'm a student</p>
 </div>
