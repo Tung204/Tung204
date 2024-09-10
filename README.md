@@ -1,6 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyễn Sơn Tùng
 =======================================================================================================================================
-
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Tung];This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
 * ✉️  You can contact me at [nst874@gmail.com](mailto:nst874@gmail.com)
 
 <a href="https://www.github.com/Tung204" target="_blank" rel="noreferrer"><img
