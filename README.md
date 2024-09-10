@@ -3,7 +3,6 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Nguyễn Sơn Tùng];This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
 </div>
-=======================================================================================================================================
 * ✉️  You can contact me at [nst874@gmail.com](mailto:nst874@gmail.com)
 
 <a href="https://www.github.com/Tung204" target="_blank" rel="noreferrer"><img
