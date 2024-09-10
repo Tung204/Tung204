@@ -10,10 +10,10 @@
 </div>
 <a href="https://www.github.com/Tung204" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Tung204?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Tung204/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/Tung204/Tung204/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
+
 ### Skills
 
 
