@@ -1,4 +1,25 @@
-<div align="center">
+<style>
+    .rgb-text {
+    animation: colorChange 3s linear infinite;
+  }
+  
+  @keyframes colorChange {
+    0%, 100% {
+      color: rgb(255, 0, 0); /* Đỏ */
+    }
+    25% {
+      color: rgb(0, 255, 0); /* Xanh */
+    }
+    50% {
+      color: rgb(128, 0, 128); /* Tím */
+    }
+    75% {
+      color: rgb(255, 255, 0); /* Vàng */
+    }
+  }
+</style>
+
+<div align="center" class="rgb-text">
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=E0E0E0&center=true&vCenter=true&width=435&lines=Hey..+I'm+Tùng;This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
